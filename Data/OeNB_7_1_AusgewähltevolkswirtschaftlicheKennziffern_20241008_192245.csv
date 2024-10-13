@@ -1,0 +1,573 @@
+Periode;Jahr;Halbjahr;Quartal;Monat;Tag;Indikator;Einheit;Status;Produzent;Region / Geschäftspartner;Datentyp;Werte;Sortierkriterium des Indikators
+Jahr;2000;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;26513;AB000C000D010
+Jahr;2000;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53798;AB000C000D011
+Jahr;2000;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;34764;AB000C001D010
+Jahr;2000;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70542;AB000C001D011
+Jahr;2000;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2455;AB000C011D000E006
+Jahr;2000;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1730;AB000C011D000E011
+Jahr;2000;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,9;AB000C017D000
+Jahr;2000;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,7;AB000C017D001
+Jahr;2000;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,4;AB000C017D002
+Jahr;2000;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;25,9;AB000C017D003
+Jahr;2000;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;33,5;AB000C017D004
+Jahr;2000;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,3;AB000C017D005
+Jahr;2000;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;31,9;AB000C017D006
+Jahr;2000;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;43,6;AB000C017D007
+Jahr;2000;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,8;AB000C017D008
+Jahr;2000;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,1;AB000C017D009
+Jahr;2000;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;9,8;AB000C017D010
+Jahr;2000;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27,9;AB000C017D011
+Jahr;2000;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,1;AB000C017D012
+Jahr;2000;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,3;AB000C017D013
+Jahr;2000;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,2;AB000C018D012
+Jahr;2000;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-2,8;AB003C000
+Jahr;2000;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,6;AB003C001
+Jahr;2000;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,4;AB004C008
+Jahr;2000;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;67,9;AB006
+Jahr;2000;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,7;AB016C027
+Jahr;2001;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27277;AB000C000D010
+Jahr;2001;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;55160;AB000C000D011
+Jahr;2001;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;35087;AB000C001D010
+Jahr;2001;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70953;AB000C001D011
+Jahr;2001;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2510;AB000C011D000E006
+Jahr;2001;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1755;AB000C011D000E011
+Jahr;2001;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,0;AB000C017D000
+Jahr;2001;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,8;AB000C017D001
+Jahr;2001;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,7;AB000C017D002
+Jahr;2001;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;25,4;AB000C017D003
+Jahr;2001;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;33,7;AB000C017D004
+Jahr;2001;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;43,1;AB000C017D005
+Jahr;2001;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;32,8;AB000C017D006
+Jahr;2001;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,9;AB000C017D007
+Jahr;2001;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;9,3;AB000C017D008
+Jahr;2001;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,0;AB000C017D009
+Jahr;2001;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;9,8;AB000C017D010
+Jahr;2001;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27,9;AB000C017D011
+Jahr;2001;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;45,6;AB000C017D012
+Jahr;2001;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,4;AB000C017D013
+Jahr;2001;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,3;AB000C018D012
+Jahr;2001;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,0;AB003C000
+Jahr;2001;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,3;AB003C001
+Jahr;2001;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,9;AB004C008
+Jahr;2001;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;67,8;AB006
+Jahr;2001;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,2;AB016C027
+Jahr;2002;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27850;AB000C000D010
+Jahr;2002;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;56572;AB000C000D011
+Jahr;2002;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;35433;AB000C001D010
+Jahr;2002;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71975;AB000C001D011
+Jahr;2002;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2582;AB000C011D000E006
+Jahr;2002;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1800;AB000C011D000E011
+Jahr;2002;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,1;AB000C017D000
+Jahr;2002;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,1;AB000C017D001
+Jahr;2002;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,1;AB000C017D002
+Jahr;2002;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;23,8;AB000C017D003
+Jahr;2002;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;32,4;AB000C017D004
+Jahr;2002;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41,9;AB000C017D005
+Jahr;2002;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;33,2;AB000C017D006
+Jahr;2002;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;45,7;AB000C017D007
+Jahr;2002;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;9,4;AB000C017D008
+Jahr;2002;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,0;AB000C017D009
+Jahr;2002;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,0;AB000C017D010
+Jahr;2002;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;28,2;AB000C017D011
+Jahr;2002;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,5;AB000C017D012
+Jahr;2002;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,6;AB000C017D013
+Jahr;2002;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,5;AB000C018D012
+Jahr;2002;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,2;AB003C000
+Jahr;2002;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,2;AB003C001
+Jahr;2002;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,6;AB004C008
+Jahr;2002;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;68,1;AB006
+Jahr;2002;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,9;AB016C027
+Jahr;2003;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;28398;AB000C000D010
+Jahr;2003;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;57652;AB000C000D011
+Jahr;2003;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;35678;AB000C001D010
+Jahr;2003;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;72431;AB000C001D011
+Jahr;2003;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2624;AB000C011D000E006
+Jahr;2003;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1824;AB000C011D000E011
+Jahr;2003;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,2;AB000C017D000
+Jahr;2003;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,6;AB000C017D001
+Jahr;2003;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,8;AB000C017D002
+Jahr;2003;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,5;AB000C017D003
+Jahr;2003;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;32,4;AB000C017D004
+Jahr;2003;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,1;AB000C017D005
+Jahr;2003;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;32,2;AB000C017D006
+Jahr;2003;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,8;AB000C017D007
+Jahr;2003;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;9,7;AB000C017D008
+Jahr;2003;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,1;AB000C017D009
+Jahr;2003;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,2;AB000C017D010
+Jahr;2003;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;28,6;AB000C017D011
+Jahr;2003;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,1;AB000C017D012
+Jahr;2003;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,0;AB000C017D013
+Jahr;2003;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,1;AB000C018D012
+Jahr;2003;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,8;AB003C000
+Jahr;2003;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,8;AB003C001
+Jahr;2003;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,1;AB004C008
+Jahr;2003;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;68,2;AB006
+Jahr;2003;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,2;AB016C027
+Jahr;2004;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29444;AB000C000D010
+Jahr;2004;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;59909;AB000C000D011
+Jahr;2004;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;36364;AB000C001D010
+Jahr;2004;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;73988;AB000C001D011
+Jahr;2004;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2651;AB000C011D000E006
+Jahr;2004;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1844;AB000C011D000E011
+Jahr;2004;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,2;AB000C017D000
+Jahr;2004;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,1;AB000C017D001
+Jahr;2004;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,6;AB000C017D002
+Jahr;2004;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,2;AB000C017D003
+Jahr;2004;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;34,4;AB000C017D004
+Jahr;2004;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,3;AB000C017D005
+Jahr;2004;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;34,5;AB000C017D006
+Jahr;2004;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;47,2;AB000C017D007
+Jahr;2004;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;9,4;AB000C017D008
+Jahr;2004;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,9;AB000C017D009
+Jahr;2004;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,3;AB000C017D010
+Jahr;2004;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;28,3;AB000C017D011
+Jahr;2004;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;43,6;AB000C017D012
+Jahr;2004;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;68,5;AB000C017D013
+Jahr;2004;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,6;AB000C018D012
+Jahr;2004;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-3,3;AB003C000
+Jahr;2004;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,0;AB003C001
+Jahr;2004;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,1;AB004C008
+Jahr;2004;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;65,3;AB006
+Jahr;2004;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,9;AB016C027
+Jahr;2005;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;30680;AB000C000D010
+Jahr;2005;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;62049;AB000C000D011
+Jahr;2005;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;36955;AB000C001D010
+Jahr;2005;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;74738;AB000C001D011
+Jahr;2005;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2718;AB000C011D000E006
+Jahr;2005;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1896;AB000C011D000E011
+Jahr;2005;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,4;AB000C017D000
+Jahr;2005;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,3;AB000C017D001
+Jahr;2005;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,4;AB000C017D002
+Jahr;2005;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,0;AB000C017D003
+Jahr;2005;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;35,4;AB000C017D004
+Jahr;2005;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;45,7;AB000C017D005
+Jahr;2005;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;35,7;AB000C017D006
+Jahr;2005;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;49,0;AB000C017D007
+Jahr;2005;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,8;AB000C017D008
+Jahr;2005;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,9;AB000C017D009
+Jahr;2005;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,3;AB000C017D010
+Jahr;2005;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27,9;AB000C017D011
+Jahr;2005;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,4;AB000C017D012
+Jahr;2005;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;67,3;AB000C017D013
+Jahr;2005;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,3;AB000C018D012
+Jahr;2005;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,4;AB003C000
+Jahr;2005;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,7;AB003C001
+Jahr;2005;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,9;AB004C008
+Jahr;2005;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;67,4;AB006
+Jahr;2005;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;6,0;AB016C027
+Jahr;2006;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;32164;AB000C000D010
+Jahr;2006;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;64311;AB000C000D011
+Jahr;2006;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37966;AB000C001D010
+Jahr;2006;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;75911;AB000C001D011
+Jahr;2006;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2827;AB000C011D000E006
+Jahr;2006;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1968;AB000C011D000E011
+Jahr;2006;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,4;AB000C017D000
+Jahr;2006;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,3;AB000C017D001
+Jahr;2006;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,8;AB000C017D002
+Jahr;2006;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;23,8;AB000C017D003
+Jahr;2006;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37,1;AB000C017D004
+Jahr;2006;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;47,6;AB000C017D005
+Jahr;2006;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37,6;AB000C017D006
+Jahr;2006;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,2;AB000C017D007
+Jahr;2006;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,8;AB000C017D008
+Jahr;2006;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,8;AB000C017D009
+Jahr;2006;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,1;AB000C017D010
+Jahr;2006;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27,5;AB000C017D011
+Jahr;2006;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41,8;AB000C017D012
+Jahr;2006;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;65,9;AB000C017D013
+Jahr;2006;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,3;AB000C018D012
+Jahr;2006;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-3,8;AB003C000
+Jahr;2006;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,0;AB003C001
+Jahr;2006;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,4;AB004C008
+Jahr;2006;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;68,6;AB006
+Jahr;2006;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,6;AB016C027
+Jahr;2007;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;34021;AB000C000D010
+Jahr;2007;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;66992;AB000C000D011
+Jahr;2007;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39270;AB000C001D010
+Jahr;2007;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;77328;AB000C001D011
+Jahr;2007;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2913;AB000C011D000E006
+Jahr;2007;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2027;AB000C011D000E011
+Jahr;2007;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,4;AB000C017D000
+Jahr;2007;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,8;AB000C017D001
+Jahr;2007;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,6;AB000C017D002
+Jahr;2007;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,7;AB000C017D003
+Jahr;2007;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,1;AB000C017D004
+Jahr;2007;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;48,5;AB000C017D005
+Jahr;2007;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39,0;AB000C017D006
+Jahr;2007;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,9;AB000C017D007
+Jahr;2007;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;12,7;AB000C017D008
+Jahr;2007;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,8;AB000C017D009
+Jahr;2007;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,2;AB000C017D010
+Jahr;2007;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27,0;AB000C017D011
+Jahr;2007;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41,9;AB000C017D012
+Jahr;2007;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;65,3;AB000C017D013
+Jahr;2007;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,8;AB000C018D012
+Jahr;2007;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-2,3;AB003C000
+Jahr;2007;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,6;AB003C001
+Jahr;2007;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,9;AB004C008
+Jahr;2007;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;69,9;AB006
+Jahr;2007;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,2;AB016C027
+Jahr;2008;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;35071;AB000C000D010
+Jahr;2008;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;67801;AB000C000D011
+Jahr;2008;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39714;AB000C001D010
+Jahr;2008;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;76777;AB000C001D011
+Jahr;2008;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3011;AB000C011D000E006
+Jahr;2008;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2082;AB000C011D000E011
+Jahr;2008;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,6;AB000C017D000
+Jahr;2008;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,5;AB000C017D001
+Jahr;2008;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,4;AB000C017D002
+Jahr;2008;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,7;AB000C017D003
+Jahr;2008;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,7;AB000C017D004
+Jahr;2008;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;49,1;AB000C017D005
+Jahr;2008;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,8;AB000C017D006
+Jahr;2008;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,6;AB000C017D007
+Jahr;2008;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;12,9;AB000C017D008
+Jahr;2008;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,9;AB000C017D009
+Jahr;2008;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,4;AB000C017D010
+Jahr;2008;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27,5;AB000C017D011
+Jahr;2008;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,6;AB000C017D012
+Jahr;2008;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;66,1;AB000C017D013
+Jahr;2008;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,5;AB000C018D012
+Jahr;2008;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,5;AB003C000
+Jahr;2008;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-2,5;AB003C001
+Jahr;2008;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,0;AB004C008
+Jahr;2008;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,8;AB006
+Jahr;2008;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,4;AB016C027
+Jahr;2009;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;34319;AB000C000D010
+Jahr;2009;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;66968;AB000C000D011
+Jahr;2009;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38199;AB000C001D010
+Jahr;2009;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;74538;AB000C001D011
+Jahr;2009;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3085;AB000C011D000E006
+Jahr;2009;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2170;AB000C011D000E011
+Jahr;2009;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,6;AB000C017D000
+Jahr;2009;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,6;AB000C017D001
+Jahr;2009;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,1;AB000C017D002
+Jahr;2009;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;23,0;AB000C017D003
+Jahr;2009;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;32,4;AB000C017D004
+Jahr;2009;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,1;AB000C017D005
+Jahr;2009;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;31,9;AB000C017D006
+Jahr;2009;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;45,5;AB000C017D007
+Jahr;2009;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;12,6;AB000C017D008
+Jahr;2009;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,3;AB000C017D009
+Jahr;2009;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,9;AB000C017D010
+Jahr;2009;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,5;AB000C017D011
+Jahr;2009;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,3;AB000C017D012
+Jahr;2009;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;69,8;AB000C017D013
+Jahr;2009;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-3,6;AB000C018D012
+Jahr;2009;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;13,4;AB003C000
+Jahr;2009;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-3,2;AB003C001
+Jahr;2009;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,3;AB004C008
+Jahr;2009;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,3;AB006
+Jahr;2009;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,7;AB016C027
+Jahr;2010;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;35169;AB000C000D010
+Jahr;2010;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;68300;AB000C000D011
+Jahr;2010;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38798;AB000C001D010
+Jahr;2010;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;75348;AB000C001D011
+Jahr;2010;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3122;AB000C011D000E006
+Jahr;2010;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2191;AB000C011D000E011
+Jahr;2010;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,7;AB000C017D000
+Jahr;2010;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,9;AB000C017D001
+Jahr;2010;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,2;AB000C017D002
+Jahr;2010;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;22,9;AB000C017D003
+Jahr;2010;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,0;AB000C017D004
+Jahr;2010;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;48,1;AB000C017D005
+Jahr;2010;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,1;AB000C017D006
+Jahr;2010;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,6;AB000C017D007
+Jahr;2010;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,3;AB000C017D008
+Jahr;2010;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,3;AB000C017D009
+Jahr;2010;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,9;AB000C017D010
+Jahr;2010;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,6;AB000C017D011
+Jahr;2010;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,2;AB000C017D012
+Jahr;2010;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;68,4;AB000C017D013
+Jahr;2010;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,8;AB000C018D012
+Jahr;2010;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-6,8;AB003C000
+Jahr;2010;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;7,5;AB003C001
+Jahr;2010;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,2;AB004C008
+Jahr;2010;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,8;AB006
+Jahr;2010;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,2;AB016C027
+Jahr;2011;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;36737;AB000C000D010
+Jahr;2011;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70373;AB000C000D011
+Jahr;2011;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39804;AB000C001D010
+Jahr;2011;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;76248;AB000C001D011
+Jahr;2011;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3193;AB000C011D000E006
+Jahr;2011;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2232;AB000C011D000E011
+Jahr;2011;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,7;AB000C017D000
+Jahr;2011;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,6;AB000C017D001
+Jahr;2011;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,9;AB000C017D002
+Jahr;2011;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,4;AB000C017D003
+Jahr;2011;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41,0;AB000C017D004
+Jahr;2011;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,5;AB000C017D005
+Jahr;2011;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;40,1;AB000C017D006
+Jahr;2011;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;54,3;AB000C017D007
+Jahr;2011;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;7,8;AB000C017D008
+Jahr;2011;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,2;AB000C017D009
+Jahr;2011;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;10,7;AB000C017D010
+Jahr;2011;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;28,8;AB000C017D011
+Jahr;2011;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,3;AB000C017D012
+Jahr;2011;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;68,2;AB000C017D013
+Jahr;2011;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,9;AB000C018D012
+Jahr;2011;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,7;AB003C000
+Jahr;2011;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,3;AB003C001
+Jahr;2011;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,7;AB004C008
+Jahr;2011;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,1;AB006
+Jahr;2011;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,9;AB016C027
+Jahr;2012;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37572;AB000C000D010
+Jahr;2012;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71551;AB000C000D011
+Jahr;2012;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39874;AB000C001D010
+Jahr;2012;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;75936;AB000C001D011
+Jahr;2012;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3293;AB000C011D000E006
+Jahr;2012;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2294;AB000C011D000E011
+Jahr;2012;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,9;AB000C017D000
+Jahr;2012;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,5;AB000C017D001
+Jahr;2012;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,1;AB000C017D002
+Jahr;2012;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,3;AB000C017D003
+Jahr;2012;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;40,6;AB000C017D004
+Jahr;2012;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,5;AB000C017D005
+Jahr;2012;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39,7;AB000C017D006
+Jahr;2012;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;54,3;AB000C017D007
+Jahr;2012;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;9,4;AB000C017D008
+Jahr;2012;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,0;AB000C017D009
+Jahr;2012;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,0;AB000C017D010
+Jahr;2012;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,1;AB000C017D011
+Jahr;2012;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;43,0;AB000C017D012
+Jahr;2012;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;69,5;AB000C017D013
+Jahr;2012;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,6;AB000C018D012
+Jahr;2012;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,3;AB003C000
+Jahr;2012;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,8;AB003C001
+Jahr;2012;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,0;AB004C008
+Jahr;2012;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,4;AB006
+Jahr;2012;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,2;AB016C027
+Jahr;2013;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37889;AB000C000D010
+Jahr;2013;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;72191;AB000C000D011
+Jahr;2013;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39535;AB000C001D010
+Jahr;2013;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;75328;AB000C001D011
+Jahr;2013;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3364;AB000C011D000E006
+Jahr;2013;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2333;AB000C011D000E011
+Jahr;2013;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,0;AB000C017D000
+Jahr;2013;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,7;AB000C017D001
+Jahr;2013;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,2;AB000C017D002
+Jahr;2013;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;23,9;AB000C017D003
+Jahr;2013;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,9;AB000C017D004
+Jahr;2013;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,1;AB000C017D005
+Jahr;2013;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,5;AB000C017D006
+Jahr;2013;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,9;AB000C017D007
+Jahr;2013;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;7,2;AB000C017D008
+Jahr;2013;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,1;AB000C017D009
+Jahr;2013;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,0;AB000C017D010
+Jahr;2013;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,6;AB000C017D011
+Jahr;2013;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,0;AB000C017D012
+Jahr;2013;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,4;AB000C017D013
+Jahr;2013;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,3;AB000C018D012
+Jahr;2013;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,1;AB003C000
+Jahr;2013;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,7;AB003C001
+Jahr;2013;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,8;AB004C008
+Jahr;2013;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,4;AB006
+Jahr;2013;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,7;AB016C027
+Jahr;2014;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38637;AB000C000D010
+Jahr;2014;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;73459;AB000C000D011
+Jahr;2014;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39523;AB000C001D010
+Jahr;2014;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;75144;AB000C001D011
+Jahr;2014;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3449;AB000C011D000E006
+Jahr;2014;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2378;AB000C011D000E011
+Jahr;2014;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,1;AB000C017D000
+Jahr;2014;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,4;AB000C017D001
+Jahr;2014;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,8;AB000C017D002
+Jahr;2014;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;23,8;AB000C017D003
+Jahr;2014;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37,9;AB000C017D004
+Jahr;2014;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;50,6;AB000C017D005
+Jahr;2014;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,2;AB000C017D006
+Jahr;2014;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,9;AB000C017D007
+Jahr;2014;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;7,5;AB000C017D008
+Jahr;2014;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,0;AB000C017D009
+Jahr;2014;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,1;AB000C017D010
+Jahr;2014;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,7;AB000C017D011
+Jahr;2014;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,1;AB000C017D012
+Jahr;2014;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,6;AB000C017D013
+Jahr;2014;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,8;AB000C018D012
+Jahr;2014;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,2;AB003C000
+Jahr;2014;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,6;AB003C001
+Jahr;2014;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,0;AB004C008
+Jahr;2014;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,1;AB006
+Jahr;2014;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;6,0;AB016C027
+Jahr;2015;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39641;AB000C000D010
+Jahr;2015;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;75592;AB000C000D011
+Jahr;2015;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39641;AB000C001D010
+Jahr;2015;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;75592;AB000C001D011
+Jahr;2015;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3532;AB000C011D000E006
+Jahr;2015;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2424;AB000C011D000E011
+Jahr;2015;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,1;AB000C017D000
+Jahr;2015;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,6;AB000C017D001
+Jahr;2015;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,2;AB000C017D002
+Jahr;2015;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,0;AB000C017D003
+Jahr;2015;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37,1;AB000C017D004
+Jahr;2015;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;49,7;AB000C017D005
+Jahr;2015;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37,7;AB000C017D006
+Jahr;2015;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;53,4;AB000C017D007
+Jahr;2015;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;7,2;AB000C017D008
+Jahr;2015;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,0;AB000C017D009
+Jahr;2015;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,1;AB000C017D010
+Jahr;2015;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,8;AB000C017D011
+Jahr;2015;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,4;AB000C017D012
+Jahr;2015;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,1;AB000C017D013
+Jahr;2015;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,3;AB000C018D012
+Jahr;2015;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,2;AB003C000
+Jahr;2015;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,6;AB003C001
+Jahr;2015;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,3;AB004C008
+Jahr;2015;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,1;AB006
+Jahr;2015;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;6,1;AB016C027
+Jahr;2016;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;40695;AB000C000D010
+Jahr;2016;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;77456;AB000C000D011
+Jahr;2016;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39970;AB000C001D010
+Jahr;2016;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;76075;AB000C001D011
+Jahr;2016;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3619;AB000C011D000E006
+Jahr;2016;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2557;AB000C011D000E011
+Jahr;2016;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,1;AB000C017D000
+Jahr;2016;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,6;AB000C017D001
+Jahr;2016;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,8;AB000C017D002
+Jahr;2016;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;24,5;AB000C017D003
+Jahr;2016;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;36,2;AB000C017D004
+Jahr;2016;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;48,9;AB000C017D005
+Jahr;2016;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37,0;AB000C017D006
+Jahr;2016;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,7;AB000C017D007
+Jahr;2016;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;8,1;AB000C017D008
+Jahr;2016;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,0;AB000C017D009
+Jahr;2016;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,1;AB000C017D010
+Jahr;2016;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,7;AB000C017D011
+Jahr;2016;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,9;AB000C017D012
+Jahr;2016;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;69,6;AB000C017D013
+Jahr;2016;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,1;AB000C018D012
+Jahr;2016;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,1;AB003C000
+Jahr;2016;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,2;AB003C001
+Jahr;2016;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,6;AB004C008
+Jahr;2016;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;71,5;AB006
+Jahr;2016;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;6,5;AB016C027
+Jahr;2017;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41761;AB000C000D010
+Jahr;2017;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;78650;AB000C000D011
+Jahr;2017;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;40621;AB000C001D010
+Jahr;2017;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;76502;AB000C001D011
+Jahr;2017;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3673;AB000C011D000E006
+Jahr;2017;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2591;AB000C011D000E011
+Jahr;2017;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,1;AB000C017D000
+Jahr;2017;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,3;AB000C017D001
+Jahr;2017;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,1;AB000C017D002
+Jahr;2017;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;25,0;AB000C017D003
+Jahr;2017;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37,8;AB000C017D004
+Jahr;2017;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,2;AB000C017D005
+Jahr;2017;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,1;AB000C017D006
+Jahr;2017;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;54,3;AB000C017D007
+Jahr;2017;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;7,1;AB000C017D008
+Jahr;2017;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,9;AB000C017D009
+Jahr;2017;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,1;AB000C017D010
+Jahr;2017;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,3;AB000C017D011
+Jahr;2017;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,9;AB000C017D012
+Jahr;2017;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,5;AB000C017D013
+Jahr;2017;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,3;AB000C018D012
+Jahr;2017;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,6;AB003C000
+Jahr;2017;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,3;AB003C001
+Jahr;2017;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,0;AB004C008
+Jahr;2017;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;72,2;AB006
+Jahr;2017;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,9;AB016C027
+Jahr;2018;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;43364;AB000C000D010
+Jahr;2018;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;80559;AB000C000D011
+Jahr;2018;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41429;AB000C001D010
+Jahr;2018;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;76966;AB000C001D011
+Jahr;2018;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3765;AB000C011D000E006
+Jahr;2018;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2643;AB000C011D000E011
+Jahr;2018;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,1;AB000C017D000
+Jahr;2018;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,8;AB000C017D001
+Jahr;2018;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,4;AB000C017D002
+Jahr;2018;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;25,9;AB000C017D003
+Jahr;2018;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,5;AB000C017D004
+Jahr;2018;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,7;AB000C017D005
+Jahr;2018;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,9;AB000C017D006
+Jahr;2018;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;55,7;AB000C017D007
+Jahr;2018;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;7,7;AB000C017D008
+Jahr;2018;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,8;AB000C017D009
+Jahr;2018;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,1;AB000C017D010
+Jahr;2018;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,1;AB000C017D011
+Jahr;2018;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;43,3;AB000C017D012
+Jahr;2018;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,4;AB000C017D013
+Jahr;2018;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,5;AB000C018D012
+Jahr;2018;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,7;AB003C000
+Jahr;2018;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-1,1;AB003C001
+Jahr;2018;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,2;AB004C008
+Jahr;2018;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;73,0;AB006
+Jahr;2018;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,2;AB016C027
+Jahr;2019;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44573;AB000C000D010
+Jahr;2019;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;82083;AB000C000D011
+Jahr;2019;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41967;AB000C001D010
+Jahr;2019;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;77283;AB000C001D011
+Jahr;2019;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3869;AB000C011D000E006
+Jahr;2019;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2718;AB000C011D000E011
+Jahr;2019;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,1;AB000C017D000
+Jahr;2019;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,4;AB000C017D001
+Jahr;2019;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,0;AB000C017D002
+Jahr;2019;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;25,5;AB000C017D003
+Jahr;2019;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;37,4;AB000C017D004
+Jahr;2019;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;52,3;AB000C017D005
+Jahr;2019;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;38,5;AB000C017D006
+Jahr;2019;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;55,9;AB000C017D007
+Jahr;2019;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;7,2;AB000C017D008
+Jahr;2019;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,8;AB000C017D009
+Jahr;2019;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,2;AB000C017D010
+Jahr;2019;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;29,3;AB000C017D011
+Jahr;2019;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;43,5;AB000C017D012
+Jahr;2019;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;70,4;AB000C017D013
+Jahr;2019;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,8;AB000C018D012
+Jahr;2019;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,4;AB003C000
+Jahr;2019;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,8;AB003C001
+Jahr;2019;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,3;AB004C008
+Jahr;2019;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;73,6;AB006
+Jahr;2019;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,8;AB016C027
+Jahr;2020;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42652;AB000C000D010
+Jahr;2020;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;80449;AB000C000D011
+Jahr;2020;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;39142;AB000C001D010
+Jahr;2020;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;73829;AB000C001D011
+Jahr;2020;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3932;AB000C011D000E006
+Jahr;2020;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2784;AB000C011D000E011
+Jahr;2020;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,2;AB000C017D000
+Jahr;2020;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,4;AB000C017D001
+Jahr;2020;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;49,6;AB000C017D002
+Jahr;2020;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;25,7;AB000C017D003
+Jahr;2020;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;35,4;AB000C017D004
+Jahr;2020;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;48,3;AB000C017D005
+Jahr;2020;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;36,6;AB000C017D006
+Jahr;2020;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;51,7;AB000C017D007
+Jahr;2020;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;13,6;AB000C017D008
+Jahr;2020;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;5,0;AB000C017D009
+Jahr;2020;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;12,0;AB000C017D010
+Jahr;2020;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;34,0;AB000C017D011
+Jahr;2020;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;42,9;AB000C017D012
+Jahr;2020;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;69,7;AB000C017D013
+Jahr;2020;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-6,3;AB000C018D012
+Jahr;2020;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;6,0;AB003C000
+Jahr;2020;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2,7;AB003C001
+Jahr;2020;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;6,9;AB004C008
+Jahr;2020;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;72,4;AB006
+Jahr;2020;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;6,0;AB016C027
+Jahr;2021;;;;;BIP je Einwohner, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;45381;AB000C000D010
+Jahr;2021;;;;;BIP je Erwerbstätigen, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;83897;AB000C000D011
+Jahr;2021;;;;;BIP je Einwohner, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;40860;AB000C001D010
+Jahr;2021;;;;;BIP je Erwerbstätigen, real, auf VJ-Preisbasis - RJ2015;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;75539;AB000C001D011
+Jahr;2021;;;;;Bruttolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4068;AB000C011D000E006
+Jahr;2021;;;;;Nettolöhne und -Gehälter je Vollzeitäquivalent monatlich, nominell;Euro;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;2859;AB000C011D000E011
+Jahr;2021;;;;;Forschungsquote (ESVG 2010);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;3,3;AB000C017D000
+Jahr;2021;;;;;Leistungsbilanzquote ;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;1,7;AB000C017D001
+Jahr;2021;;;;;Private Konsumquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;49,6;AB000C017D002
+Jahr;2021;;;;;Investitionsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;27,7;AB000C017D003
+Jahr;2021;;;;;Warenimportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41,2;AB000C017D004
+Jahr;2021;;;;;Importquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;55,1;AB000C017D005
+Jahr;2021;;;;;Warenexportquote (im engeren Sinn);Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;41,1;AB000C017D006
+Jahr;2021;;;;;Exportquote im weiteren Sinn;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;56,0;AB000C017D007
+Jahr;2021;;;;;Sparquote private Haushalte inkl. Priv. Dienste ohne Erwerbstätigkeit;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;11,4;AB000C017D008
+Jahr;2021;;;;;Bildungsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,9;AB000C017D009
+Jahr;2021;;;;;Gesundheitsquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;12,8;AB000C017D010
+Jahr;2021;;;;;Sozialquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;32,9;AB000C017D011
+Jahr;2021;;;;;Abgabenquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;44,0;AB000C017D012
+Jahr;2021;;;;;Bereinigte Lohnquote;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;68,6;AB000C017D013
+Jahr;2021;;;;;Bruttoinlandsprodukt real, auf VJ-Preisbasis RJ2015,Veränd.zum VJ in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;4,8;AB000C018D012
+Jahr;2021;;;;;Lohnstückkosten - Sachgütererzeugung Österreich, Ver. zum Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-7,4;AB003C000
+Jahr;2021;;;;;Lohnstückkosten - Sachgütererzeugung Österr./Deutschland,Ver.z.Vj in%;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;-0,4;AB003C001
+Jahr;2021;;;;;Lohnstückkosten in d. Gesamtwirtschaft, 10=100 Veränd. z.Vorjahr in %;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;0,3;AB004C008
+Jahr;2021;;;;;Beschäftigungsquote (15-64) - insgesamt, Definition EU;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;72,4;AB006
+Jahr;2021;;;;;Arbeitslosenquote laut Eurostat, SA disc;Prozent;Weder saisonal noch um Arbeitstage bereinigt;Österreich;Insgesamt;Standard, in Einheiten;6,2;AB016C027
